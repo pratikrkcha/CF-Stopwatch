@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/daae5e97-8f5c-4e6b-beaa-0e889d9a2b1c" width="120" height="120" alt="CF Stopwatch Icon">
   
   <h1>CF Stopwatch</h1>
+<p><sub>by <b>Pratik Rakhecha</b></sub></p>
   <p><strong>Precision time-tracking for competitive programmers.</strong></p><a href="./cf-stopwatch-firefox.zip">
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 </a>
