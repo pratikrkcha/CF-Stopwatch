@@ -40,7 +40,7 @@ CF Stopwatch is a lightweight browser extension that seamlessly integrates into 
 4. Click **Load unpacked** and select the extension folder.
 
 ### **Firefox**
-Add ons: ![download](https://addons.mozilla.org/en-US/firefox/addon/cf-stopwatch/)
+Add ons: [download](https://addons.mozilla.org/en-US/firefox/addon/cf-stopwatch/)
 
 ---
 
